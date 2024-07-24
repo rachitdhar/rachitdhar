@@ -1,3 +1,5 @@
+## Hi there!
+
 I am Rachit Dhar. Here you can find the various repositories I have worked on.
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rachitdhar&theme=algolia&show_icons=true)](https://github.com/rachitdhar) -->
